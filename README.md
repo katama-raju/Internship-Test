@@ -1,2 +1,0 @@
-# Internship-Test
-Assignment
